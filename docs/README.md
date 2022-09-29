@@ -33,7 +33,7 @@
 - ソフトウェア開発管理技術
     - ソース管理
         - Git
-            - Gitの基礎知識
+            - [Gitの基礎知識](./gitbase.md)
             - Visual stuido CodeからGitを利用する方法        
 
 
