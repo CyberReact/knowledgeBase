@@ -12,7 +12,7 @@
 
 - プログラミング言語
     - フロントエンド
-        - [HTML](./html.md)
+        - HTML
    
     - バックエンド
         - JAVA
@@ -33,7 +33,7 @@
 - ソフトウェア開発管理技術
     - ソース管理
         - Git
-            - [Gitの基礎知識](./baseknowledgeOfGit.md)
+            - Gitの基礎知識
             - Visual stuido CodeからGitを利用する方法        
 
 
