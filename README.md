@@ -7,11 +7,12 @@
 
 項目のベースは基本情報技術者(旧:第二種情報処理技術試験)を参考に作成しています。
 
+
 ## テクノロジ系
 
 - プログラミング言語
     - フロントエンド
-        - [HTML](./technology-programming-fontEnd-html.md)
+        - [HTML](./html.md)
    
     - バックエンド
         - JAVA
@@ -32,6 +33,7 @@
 - ソフトウェア開発管理技術
     - ソース管理
         - Git
+            - [Gitの基礎知識](./baseknowledgeOfGit.md)
             - Visual stuido CodeからGitを利用する方法        
 
 
