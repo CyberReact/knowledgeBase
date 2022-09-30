@@ -38,6 +38,10 @@ String[] foo = { "私の名前", "田中", "人人", "です", "よろしく"};
 
 //判定値
 boolean foo = false;
+
+//リスト
+List<String> foo = new Arraylist<>();
+Map<Integet,String> foo = new Hashlist<>();
 ```
 
 ### 四則計算
@@ -46,11 +50,45 @@ boolean foo = false;
 +,-,*,/,%
 ```
 
+### 繰り返し
+
+```
+コレクション名.forEach(foo -> foo.getkey())
+
+```
+
 ### 配列
 
 以下のように定義する時点で、変数に値が設定されている場合であれば要素値は不要
 正直、NullpointExceptionだったり発生する場合が多いため基本的にはリストを使うべき
 ```
 String[] foo = { "私の名前", "田中", "人人", "です", "よろしく"};
+```
+
+### リスト
+
+```
+List<String> foo = new Arraylist<>();
+
+//リストに要素を追加する。
+foo.add("テスト1");
+foo.add("テスト2");
+foo.add("テスト3");
+
+//リストに追加した要素値を変更
+foo.set(1,"テスト0");
+
+//追加した要素を取得
+foo.get(1);
+
+Map<Integet,String> foo = new Hashlist<>();
+
+//リストに要素を追加する。
+foo.put("1",テスト1);
+foo.put("2",テスト2);
+foo.put("3",テスト3);
+
+//追加した要素を取得
+foo.get(1);
 ```
 
