@@ -15,7 +15,7 @@
         - HTML
    
     - バックエンド
-        - JAVA
+        - [JAVA](./Java.md)
 
 - データベース
     - Postgres
@@ -34,8 +34,7 @@
     - ソース管理
         - Git
             - [Gitの基礎知識](./gitbase.md)
-            - Visual stuido CodeからGitを利用する方法        
-
+            - [Visual stuido CodeからGitを利用する方法](./howToUseGitFromVscode.md)
 
 ## マネジメント系
 
