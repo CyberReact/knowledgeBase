@@ -15,8 +15,9 @@
         - [HTML](./Html.md)
    
     - バックエンド
-        - [JAVA](./Java.md)
-
+        - JAVA系
+            - [JAVAの基礎](./JavaBasic.md)
+            - [JAVAの応用](./JavaAdvanced.md)
 - データベース
     - PostgreSQL
 
