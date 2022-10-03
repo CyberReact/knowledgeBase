@@ -12,13 +12,13 @@
 
 - プログラミング言語
     - フロントエンド
-        - HTML
+        - [HTML](./Html.md)
    
     - バックエンド
         - [JAVA](./Java.md)
 
 - データベース
-    - Postgres
+    - PostgreSQL
 
 - ネットワーク
     - Windows
